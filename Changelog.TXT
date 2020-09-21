@@ -1,0 +1,3 @@
+Initial Development
+	Version: 0.0
+		Added message box that provides information on lenses, and prompts the user for a choice of lens.
